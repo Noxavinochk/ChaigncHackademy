@@ -35,19 +35,25 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
      <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/20px-Flag_of_Togo.svg.png"> Togo<br> « Travail - Liberté - Patrie »</td>
-    <td>11</td>
+    <td>12</td>
     <td>
       Adama,
       ahouefa
       agretsuko_susanoo66,
-     CRESUS_chk
+      CRESUS_chk
+      Noxavino
      <a href="https://twitter.com/ambroisevega">Ambroise_chk</a>,
       geth1s_One$, 
       <a href="https://twitter.com/hbyghs"> hbygh</a>
       <a href="https://twitter.com/Xwxlxe">Siegried</a>,
       <a href="https://twitter.com/tisemtine">tisemtine</a>,
       <a href="https://twitter.com/banybah">selom</a>
-     <a href="https://twitter.com/CRESUS_chk">CRESUS</a>
+     <a href="https://twitter.com/ambroisevega">Ambroise_chk</a>, 
+     <a href="https://twitter.com/ambroisevega">Ambroise_chk</a>, 
+     <a  href="https://twitter.com/CRESUS_chk">CRESUS</a>
+     <a  href="https://twitter.com/Noxavino_chk">Noxavino</a>
+     
+     
      </td>
   </tr>
      <tr>
@@ -170,7 +176,7 @@ Nous comptons déjà 30h heures de conférences à ce jour (24/01/2020), si **vo
   </tr>
   <tr>
     <td>ChaigncHackademy <br>« Ethique, Partage, Défense » </td>
-    <td>57</td>
+    <td>58</td>
     <td>Membres totals actifs de ChaigncHackademy</td>
   </tr>
 </table>
